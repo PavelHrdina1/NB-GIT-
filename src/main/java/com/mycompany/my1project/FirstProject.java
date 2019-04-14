@@ -11,7 +11,7 @@ package com.mycompany.my1project;
         
         // this is a integer
         
-         System.out.println(first_number + " Is my favourite number");
+         System.out.println(first_number);
         
         // This will print Hello World
     }
