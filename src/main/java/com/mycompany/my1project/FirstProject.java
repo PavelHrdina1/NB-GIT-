@@ -11,8 +11,10 @@ package com.mycompany.my1project;
         
         // this is a integer
         
-         System.out.println(first_number);
+         System.out.println("Hello World");
         
         // This will print Hello World
+        
+        System.out.println(first_number);
     }
 }
