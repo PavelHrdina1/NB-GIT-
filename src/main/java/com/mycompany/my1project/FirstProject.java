@@ -16,5 +16,7 @@ package com.mycompany.my1project;
         // This will print Hello World
         
         System.out.println(first_number);
+        
+        // Output is 5
     }
 }
