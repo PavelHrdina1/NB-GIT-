@@ -4,5 +4,7 @@ package Java_Variables;
       
       public static void main(String[] args){
           
+          // Double variables
+        
       }
 }

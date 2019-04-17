@@ -50,6 +50,14 @@ public class Part_one {
          answer = 10 + 20;
          
          // Same otput as previus
+         
+         System.out.println("Addition Total = " + answer);
+         
+         // Now we can print this all.
+         
+         // We can store quite large numbers in int variable type .
+         // Maximum value  is 2147483647
+         // Lowest is -2147483647
           
           
    }
