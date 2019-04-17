@@ -4,11 +4,5 @@ package Java_Variables;
       
       public static void main(String[] args){
           
-          int firstNumber, secondNumber, answer;
-          
-          // we cna have x variable names on the same line
-          
-          
-          
       }
 }
