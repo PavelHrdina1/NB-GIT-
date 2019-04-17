@@ -36,5 +36,17 @@ public class Part_one {
          System.out.println("first Number = " + firstNumber);
          
          // Output = Variable, 22, first Number = 12
+         
+         int thirdNumber, fourthNumber, answer;
+          
+         // We can have x variable names on the same line.
+          
+         thirdNumber = 10;
+         fourthNumber = 20;
+         answer = firstNumber + secondNumber;
+          
+         // We can then store something in the new variables .
+          
+          
    }
 }
