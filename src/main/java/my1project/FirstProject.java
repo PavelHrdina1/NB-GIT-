@@ -1,5 +1,5 @@
 
-package com.mycompany.my1project;
+package my1project;
 
  public class FirstProject {
 
