@@ -43,9 +43,13 @@ public class Part_one {
           
          thirdNumber = 10;
          fourthNumber = 20;
-         answer = firstNumber + secondNumber;
+         answer = firstNumber + fourthNumber;
           
-         // We can then store something in the new variables .
+         // We can then store something in the new variables.
+         
+         answer = 10 + 20;
+         
+         // Same otput as previus
           
           
    }
